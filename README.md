@@ -3,7 +3,7 @@
 INSURANCE
 Claims Processing Dashboard — Analysis Report
 Source: 05_insurance_claims.csv · 3,000 claims
-Prepared for: Arunabha Lahiri
+Prepared by: Arunabha Lahiri
 Report type: Dashboard analysis & insights summary
 Companion to: Power BI portfolio dashboard build
 Executive Summary
